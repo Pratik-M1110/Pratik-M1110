@@ -2,7 +2,10 @@
 ### Stay Safe and Stay Happy. Scroll down to know more about me 💻
 
 ![Image](https://github.com/Pratik-M1110/Pratik-M1110/blob/main/Picture.jpg?raw=true)
-I am into Software Engineering currently staying in Pune, Maharashtra. I have completed my Post-Graduation Diploma in Advanced Computing from Sunbeam Institute Pune. I am a highly motivated and skilled Full-Stack Web Developer. My passion for programming and problem-solving has driven me to excel in various areas of software development.
+I am a certified software developer holding a postgraduate diploma in Advance Computing from Sunbeam Institute Pune, one of the most premier institutes in the field of computer sciences and technology.
+As a Full stack web developer, I'm fuelled with passion for programming.
+My strong motivation and skills, coupled with my desire to solve problems in technology has got me exploring software development in various scopes of work and has inspired me to excel in the same. 
+When I am not developing softwares, I'm reading about new technologies and playing games.
 
 
 
