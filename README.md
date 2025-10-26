@@ -1,7 +1,6 @@
 # Hey There, I'm Pratik👋
-### Stay Safe and Stay Happy. Scroll down to know more about me 💻
+A passionate Software Engineer based in Pune, India 💻
 
-![Image](https://github.com/Pratik-M1110/Pratik-M1110/blob/main/Picture.jpg?raw=true)
 I work as a Software Engineer at Academian India Pvt Ltd, where I design, build, and optimize scalable web solutions to enhance application quality and user experience. I hold a Postgraduate Diploma in Advanced Computing and am passionate about developing efficient, reliable software while constantly adapting to new technologies and industry best practices.
 
 
