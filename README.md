@@ -2,10 +2,7 @@
 ### Stay Safe and Stay Happy. Scroll down to know more about me 💻
 
 ![Image](https://github.com/Pratik-M1110/Pratik-M1110/blob/main/Picture.jpg?raw=true)
-I am a certified software developer holding a postgraduate diploma in Advance Computing from Sunbeam Institute Pune, one of the most premier institutes in the field of computer sciences and technology.
-As a Full stack web developer, I'm fuelled with passion for programming.
-My strong motivation and skills, coupled with my desire to solve problems in technology has got me exploring software development in various scopes of work and has inspired me to excel in the same. 
-When I am not developing softwares, I'm reading about new technologies and playing games.
+I work as a Software Engineer at Academian India Pvt Ltd, where I design, build, and optimize scalable web solutions to enhance application quality and user experience. I hold a Postgraduate Diploma in Advanced Computing and am passionate about developing efficient, reliable software while constantly adapting to new technologies and industry best practices.
 
 
 
@@ -16,7 +13,7 @@ When I am not developing softwares, I'm reading about new technologies and play
 - Node JS, MySQL.
 - Docker, Jenkins, JIRA, GitHub.
 - Microsoft office.
-- Docker.
+- Docker, AWS.
 - Windows, Mac, Linux.
 - Git, Github.
 - STS, Eclipse, VS code, Visual Studio.
