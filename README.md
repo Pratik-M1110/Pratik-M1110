@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Pratik Maynal</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratik-m1110" alt="pratik-m1110" /></a> </p>
 
 - 🔭 I’m currently working **on Building the Referral Portal MVP for Google DevFest Pune 2026, helping job seekers connect with employees who can refer them.**
 
