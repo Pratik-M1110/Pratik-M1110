@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **Improving the referral experience and preparing the app for the DevFest Pune launch.**
 
-- 🤝 I’m looking fo help with **Resume uploads, production deployment, and testing the app with users.**
+- 🤝 I’m looking for help with **Resume uploads, production deployment, and testing the app with users.**
 
 - 👨‍💻 All of my projects are available at [https://pratik-m1110.github.io/](https://pratik-m1110.github.io/)
 
