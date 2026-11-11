@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pratik Maynal</h1>
+<h1 align="center">Hi 👋, I'm Pratik Maynal<h1>
 
 - 🔭 I’m currently working **on Building the Referral Portal MVP for Google DevFest Pune 2026, helping job seekers connect with employees who can refer them.**
 
